@@ -39,4 +39,4 @@ KernelSU/Magisk: remove the module, reboot. Bootloop: boot into safe mode (usual
 
 ## Credits
 - Original module: [reiryuki](https://github.com/reiryuki)
-- AIDL shim and Android 17 fixes: [CapStarCat](https://github.com/CapStarCat), developed with the help of [Claude](https://claude.ai) (Anthropic)
+- AIDL shim and Android 17 fixes: [CapStarCat](https://github.com/CapStarCat), developed with the help of [Claude](https://claude.ai) (Anthropic).
